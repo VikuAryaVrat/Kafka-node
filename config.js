@@ -1,0 +1,1 @@
+module.exports = {topic:'rdkafka-50f4a792-9f54-4e1c-b75a-00a456f1e',kafka_server: '192.168.1.116:9092',};
